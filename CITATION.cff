@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or aggregate outputs, please cite this release."
+title: "Canterbury liquefaction stationarity: repeatable manifestation residuals across three earthquakes"
+version: "1.0.0"
+type: software
+date-released: "2026-10-22"
+authors:
+  - family-names: Ren
+    given-names: Lijian
+    affiliation: "Inner Mongolia University of Technology"
+    email: renlijian@imut.edu.cn
+repository-code: "https://github.com/Johnsonlijian/canterbury-liquefaction-stationarity"
+doi: "10.5281/zenodo.23555065"
+license: MIT
+keywords:
+  - liquefaction
+  - cone penetration test
+  - Canterbury earthquake sequence
+  - non-ergodic site response
+  - stationarity
+abstract: >-
+  Reproducibility code, aggregate outputs and figure exports for a test of
+  whether repeatable liquefaction manifestation residuals are stationary
+  across the 2010, 2011 and 2016 Canterbury earthquakes.

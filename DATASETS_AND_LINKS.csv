@@ -1,0 +1,4 @@
+source,identifier,role,access,boundary
+DesignSafe PRJ-2937,10.17603/DS2-TYGH-HT91,Canterbury CPT case-history source,https://doi.org/10.17603/DS2-TYGH-HT91,"Obtain directly; raw files and per-sounding derived tables are not redistributed"
+New Zealand Geotechnical Database,NZGD,Repeat CPT exports and investigation metadata,https://www.nzgd.org.nz/,"Access requires current NZGD terms of use; raw exports are not redistributed"
+GNS Science Geological Map 3,ISBN 9780908349722,Geomorphology context,https://www.gns.cri.nz/data-and-resources/geological-maps-2014/,"Use the official GNS product and terms; no source polygons are redistributed"

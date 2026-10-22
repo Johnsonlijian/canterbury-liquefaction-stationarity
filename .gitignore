@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/raw/
+data/private/
+*.mat
+*.parquet
+*.zip
+.DS_Store

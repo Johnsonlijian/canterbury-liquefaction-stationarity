@@ -1,0 +1,61 @@
+{
+  "n_soundings": 5668,
+  "matched": 5522,
+  "match_rate": 0.9742413549753,
+  "median_dist_m": 0.03945744656230641,
+  "depth_diff_le_0.5m": 0.9974646867077146,
+  "organisations_top": {
+    "Tonkin and Taylor": 5497,
+    "University of Canterbury": 14,
+    "Davis Ogilvie and Partners": 10,
+    "Fraser Thomas Ltd": 1
+  },
+  "ground_improvement_true": 122,
+  "organisation_by_period": {
+    "P0": {
+      "Tonkin and Taylor": 534
+    },
+    "P1": {
+      "Tonkin and Taylor": 464
+    },
+    "P2": {
+      "Tonkin and Taylor": 398,
+      "University of Canterbury": 11
+    },
+    "P3": {
+      "Tonkin and Taylor": 4097,
+      "Davis Ogilvie and Partners": 1
+    },
+    "P4": {
+      "Davis Ogilvie and Partners": 9,
+      "Tonkin and Taylor": 4,
+      "University of Canterbury": 3,
+      "Fraser Thomas Ltd": 1
+    }
+  },
+  "project_prefix_by_period": {
+    "P0": {
+      "TonkinANDTaylorLtd": 532,
+      "": 2
+    },
+    "P1": {
+      "TonkinANDTaylorLtd": 464
+    },
+    "P2": {
+      "TonkinANDTaylorLtd": 398,
+      "UniversityofCanterbury": 11
+    },
+    "P3": {
+      "TonkinANDTaylorLtd": 4089,
+      "Opus": 6,
+      "DavisOgilvie": 1,
+      "Unknown": 1,
+      "Perry": 1
+    },
+    "P4": {
+      "DavisOgilvie": 9,
+      "FraserThomasLtd": 4,
+      "TonkinANDTaylorLtd": 4
+    }
+  }
+}

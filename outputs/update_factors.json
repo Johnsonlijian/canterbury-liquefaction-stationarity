@@ -1,0 +1,113 @@
+{
+  "LSN": {
+    "tau_train_2010_2011": 1.4659393439435238,
+    "by_history": {
+      "2010 and 2011": {
+        "n": 1104,
+        "mean_site_term": 1.1456346999050966,
+        "odds_factor_lambda1": 3.144436497160833,
+        "odds_factor_lambda0.5": 1.7732559028975015,
+        "observed_2016_rate": 0.025210084033613446,
+        "n_2016": 952
+      },
+      "2010 only": {
+        "n": 85,
+        "mean_site_term": -0.3058654842771296,
+        "odds_factor_lambda1": 0.7364856816970934,
+        "odds_factor_lambda0.5": 0.8581874397222867,
+        "observed_2016_rate": 0.012658227848101266,
+        "n_2016": 79
+      },
+      "2011 only": {
+        "n": 3389,
+        "mean_site_term": -0.03536405028588489,
+        "odds_factor_lambda1": 0.9652539513090651,
+        "odds_factor_lambda0.5": 0.9824733845296091,
+        "observed_2016_rate": 0.032361308677098154,
+        "n_2016": 2812
+      },
+      "neither": {
+        "n": 776,
+        "mean_site_term": -1.4229950914115495,
+        "odds_factor_lambda1": 0.24099114439596842,
+        "odds_factor_lambda0.5": 0.49090848882044036,
+        "observed_2016_rate": 0.004048582995951417,
+        "n_2016": 741
+      }
+    }
+  },
+  "LPI": {
+    "tau_train_2010_2011": 1.6499047489172183,
+    "by_history": {
+      "2010 and 2011": {
+        "n": 1104,
+        "mean_site_term": 1.3816106220437012,
+        "odds_factor_lambda1": 3.981308850099435,
+        "odds_factor_lambda0.5": 1.9953217409980364,
+        "observed_2016_rate": 0.025210084033613446,
+        "n_2016": 952
+      },
+      "2010 only": {
+        "n": 85,
+        "mean_site_term": -0.2714392039505485,
+        "odds_factor_lambda1": 0.7622816257707267,
+        "odds_factor_lambda0.5": 0.8730874101547489,
+        "observed_2016_rate": 0.012658227848101266,
+        "n_2016": 79
+      },
+      "2011 only": {
+        "n": 3389,
+        "mean_site_term": -0.05318802860888718,
+        "odds_factor_lambda1": 0.9482017066716768,
+        "odds_factor_lambda0.5": 0.9737564924926955,
+        "observed_2016_rate": 0.032361308677098154,
+        "n_2016": 2812
+      },
+      "neither": {
+        "n": 776,
+        "mean_site_term": -1.676319550659669,
+        "odds_factor_lambda1": 0.1870611798502636,
+        "odds_factor_lambda0.5": 0.4325056992113093,
+        "observed_2016_rate": 0.004048582995951417,
+        "n_2016": 741
+      }
+    }
+  },
+  "LPIish": {
+    "tau_train_2010_2011": 1.7128800646926168,
+    "by_history": {
+      "2010 and 2011": {
+        "n": 1104,
+        "mean_site_term": 1.4629800816778176,
+        "odds_factor_lambda1": 4.3188107788182135,
+        "odds_factor_lambda0.5": 2.0781748672376477,
+        "observed_2016_rate": 0.025210084033613446,
+        "n_2016": 952
+      },
+      "2010 only": {
+        "n": 85,
+        "mean_site_term": -0.29808373996035303,
+        "odds_factor_lambda1": 0.7422391820655911,
+        "odds_factor_lambda0.5": 0.8615330417723925,
+        "observed_2016_rate": 0.012658227848101266,
+        "n_2016": 79
+      },
+      "2011 only": {
+        "n": 3389,
+        "mean_site_term": -0.05828071202479634,
+        "odds_factor_lambda1": 0.9433850907253256,
+        "odds_factor_lambda0.5": 0.9712801298931867,
+        "observed_2016_rate": 0.032361308677098154,
+        "n_2016": 2812
+      },
+      "neither": {
+        "n": 776,
+        "mean_site_term": -1.7619691794178622,
+        "odds_factor_lambda1": 0.17170640996581368,
+        "odds_factor_lambda0.5": 0.41437472167811307,
+        "observed_2016_rate": 0.004048582995951417,
+        "n_2016": 741
+      }
+    }
+  }
+}

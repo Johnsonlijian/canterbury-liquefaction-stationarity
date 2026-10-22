@@ -1,0 +1,161 @@
+{
+  "n_polygons": 938,
+  "n_channel_units": 610,
+  "matched_fraction": 1.0,
+  "environ_counts": {
+    "fluvial": 3559,
+    "coastal": 1894,
+    "estuarine": 167,
+    "anthropogenic": 35,
+    "unspecified": 8,
+    "lacustrine": 5
+  },
+  "landform_counts_top25": {
+    "Holocene dune ": 1882,
+    "Holocene river swamp basin": 1002,
+    "Holocene river channel raised": 1002,
+    "Holocene river channel interfluve": 789,
+    "Holocene river plain": 505,
+    "Holocene estuary plain": 166,
+    "active river or stream": 155,
+    "Holocene river channel incised": 92,
+    "Holocene human-made landform": 35,
+    "Holocene alluvial fan": 14,
+    "Holocene dune depression": 12,
+    "undifferentiated hillslope landforms": 8,
+    "water body": 6
+  },
+  "site_term_by_environ": {
+    "anthropogenic": {
+      "size": 34,
+      "mean": 0.278,
+      "median": 0.342,
+      "std": 0.749
+    },
+    "coastal": {
+      "size": 1892,
+      "mean": -0.034,
+      "median": -0.039,
+      "std": 0.56
+    },
+    "estuarine": {
+      "size": 133,
+      "mean": 0.103,
+      "median": -0.031,
+      "std": 0.698
+    },
+    "fluvial": {
+      "size": 3470,
+      "mean": 0.014,
+      "median": -0.034,
+      "std": 0.602
+    },
+    "lacustrine": {
+      "size": 5,
+      "mean": -0.166,
+      "median": 0.11,
+      "std": 0.775
+    },
+    "unspecified": {
+      "size": 8,
+      "mean": -0.983,
+      "median": -1.076,
+      "std": 0.305
+    }
+  },
+  "site_term_by_landform": {
+    "other/unmapped": {
+      "size": 74,
+      "mean": -0.226,
+      "median": -0.233
+    },
+    "Holocene river channel raised": {
+      "size": 1001,
+      "mean": -0.104,
+      "median": -0.074
+    },
+    "active river or stream": {
+      "size": 154,
+      "mean": -0.068,
+      "median": -0.013
+    },
+    "Holocene dune ": {
+      "size": 1880,
+      "mean": -0.03,
+      "median": -0.039
+    },
+    "Holocene river swamp basin": {
+      "size": 915,
+      "mean": 0.038,
+      "median": -0.063
+    },
+    "Holocene river channel interfluve": {
+      "size": 789,
+      "mean": 0.077,
+      "median": -0.014
+    },
+    "Holocene river channel incised": {
+      "size": 92,
+      "mean": 0.095,
+      "median": -0.027
+    },
+    "Holocene estuary plain": {
+      "size": 132,
+      "mean": 0.107,
+      "median": -0.025
+    },
+    "Holocene river plain": {
+      "size": 505,
+      "mean": 0.136,
+      "median": 0.236
+    }
+  },
+  "R2_env_only": 0.007594910911060571,
+  "R2adj_env_only": 0.006698591285799638,
+  "R2_landform_only": 0.017831558459713737,
+  "R2adj_landform_only": 0.016411470346154644,
+  "R2_landform_plus_cpt": 0.03840620368479175,
+  "R2adj_landform_plus_cpt": 0.0359704676347804,
+  "site_term_by_channel_distance": {
+    "(0.0, 50.0]": {
+      "size": 1679.0,
+      "mean": 0.047,
+      "median": 0.005
+    },
+    "(50.0, 100.0]": {
+      "size": 941.0,
+      "mean": 0.085,
+      "median": -0.004
+    },
+    "(100.0, 200.0]": {
+      "size": 1061.0,
+      "mean": 0.0,
+      "median": -0.041
+    },
+    "(200.0, 400.0]": {
+      "size": 889.0,
+      "mean": -0.048,
+      "median": -0.061
+    },
+    "(400.0, 800.0]": {
+      "size": 692.0,
+      "mean": -0.099,
+      "median": -0.054
+    },
+    "(800.0, 1600.0]": {
+      "size": 261.0,
+      "mean": -0.147,
+      "median": -0.05
+    },
+    "(1600.0, 1000000.0]": {
+      "size": 19.0,
+      "mean": -0.484,
+      "median": -0.962
+    }
+  },
+  "log_dist_channel_coef_given_landform": [
+    -0.0474740078789255,
+    0.015183271732533575,
+    0.001767615211840784
+  ]
+}
